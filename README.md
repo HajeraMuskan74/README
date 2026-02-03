@@ -1,6 +1,6 @@
 # 👩‍💻 Aspiring Data Scientist | BCA Final Year Student
 
-Hi there! I'm currently in my third year of Bachelor of Computer Applications (BCA) and on a journey to become a Data Scientist. My passion lies in learning, exploring, and applying data science techniques to solve real-world problems.
+Hi there! I'm currently in my final year of Bachelor of Computer Applications (BCA) and on a journey to become a Data Scientist. My passion lies in learning, exploring, and applying data science techniques to solve real-world problems.
 
 ## 💡 What Drives Me
 - 🚀 Curiosity for data: I love discovering insights and building intelligent solutions from raw data.
@@ -11,15 +11,15 @@ Hi there! I'm currently in my third year of Bachelor of Computer Applications (B
 - Python for data analysis and modeling  
 - SQL and relational databases  
 - Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn for machine learning  
+- Scikit-learn for Machine learning  
 - Power BI and Tableau for data visualization  
 - Jupyter Notebooks for experimentation  
 - Git & GitHub for version control  
 
 ## 📁 Current Projects
-- 📊 **Personal Finance Dashboard** – Using synthetic data in Power BI to analyze spending patterns  
-- 🧠 **ML Mini Projects** – Classification and regression models applied to real datasets  
-- 🛠️ **Portfolio Website** – Designed using low-effort tools like Wix and Framer  
+- 📊 **Customer Segmentation of marketing data** –  To generate insights from raw data in order to grow business by using only SQL Technology.
+- 🧠 **House Price Prediction** – Regression model helps to predict house price by using real dataset.
+- 🛠️ **End-to-End Machine learning model for a Entertainment platform** – Designed model to classify Customers to tackle Problems and built real world solutions to grow bussiness.
 
 ## 🎯 Short-Term Goals
 - Build a professional portfolio with a custom domain and logo  
@@ -33,7 +33,6 @@ Hi there! I'm currently in my third year of Bachelor of Computer Applications (B
 | Jupyter       | Data science experiments  |
 | Power BI      | Business dashboards       |
 | HackerRank    | Coding practice & contests|
-| Framer, Wix   | Portfolio creation        |
 | GitHub        | Project showcase          |
 
 ## 🌐 Connect With Me
