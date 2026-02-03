@@ -17,8 +17,8 @@ Hi there! I'm currently in my final year of Bachelor of Computer Applications (B
 - Git & GitHub for version control  
 
 ## 📁 Current Projects
-- 📊 **Customer Segmentation of marketing data** –  To generate insights from raw data in order to grow business by using only SQL Technology.
-- 🧠 **House Price Prediction** – Regression model helps to predict house price by using real dataset.
+- 📊 **Customer Segmentation** –  To generate insights from raw data in order to grow business by using only SQL Technology.
+- 🧠 **Real Estate Price Predictor** – Regression model helps to predict house price by using real dataset.
 - 🛠️ **End-to-End Machine learning model for a Entertainment platform** – Designed model to classify Customers to tackle Problems and built real world solutions to grow bussiness.
 
 ## 🎯 Short-Term Goals
